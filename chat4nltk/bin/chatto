@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import chat4nltk
+chat4nltk.chatto('cheliza')

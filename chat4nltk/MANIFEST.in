@@ -1,0 +1,2 @@
+include README.rst
+include chat4nltk/data/*.aiml

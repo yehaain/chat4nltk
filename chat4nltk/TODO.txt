@@ -1,0 +1,20 @@
+ToDo List
+
+[]  terminar o parse AIML para a ELIZA
+[]  fazer o parse do PARRY (sentiment analysis)
+[]  fazer o parse do GUS
+[]  fazer o parse AIML da ALICE
+[]  montar um bot para controle de dispositivos (robocode) -- Siri?
+
+[]  colocar uma pasta __future__ com a baseClass do projeto
+[]  dar uma olhada no PyAIML
+[]  ler o artigo da A.L.I.C.E
+[]  montar o XSD para a short-AIML e adequar o Parser
+[]  adequar o pacote à estrutura do NLTK
+[]  criar um repositorio para o projeto
+
+[]  montar o um Parser full-compatible com AIML 1.0.1
+[]  montar o um Parser full-compatible com AIML 2.0
+
+[]  pensar em bots baseados em corpus (ver Watson, Wit.AI)
+[]  dar uma olhada no Pandora
